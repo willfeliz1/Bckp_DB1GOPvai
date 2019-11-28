@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/db1go-master.iml" filepath="$PROJECT_DIR$/.idea/db1go-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db1go-pvai/db1go-pvai.iml" filepath="$PROJECT_DIR$/db1go-pvai/db1go-pvai.iml" />
+    </modules>
+  </component>
+</project>
